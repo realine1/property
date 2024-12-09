@@ -10383,3 +10383,10 @@ nav[aria-label="breadcrumb"] li:before {
 .title-gold {
   color: #fdba74 !important;
 }
+
+.button-whatsapp {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 500;
+}
